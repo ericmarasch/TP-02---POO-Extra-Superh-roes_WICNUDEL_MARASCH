@@ -1,0 +1,14 @@
+Z:\Programación 2024\TP_02\bin\Debug\net8.0\TP_02.exe
+Z:\Programación 2024\TP_02\bin\Debug\net8.0\TP_02.deps.json
+Z:\Programación 2024\TP_02\bin\Debug\net8.0\TP_02.runtimeconfig.json
+Z:\Programación 2024\TP_02\bin\Debug\net8.0\TP_02.dll
+Z:\Programación 2024\TP_02\bin\Debug\net8.0\TP_02.pdb
+Z:\Programación 2024\TP_02\obj\Debug\net8.0\TP_02.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Programación 2024\TP_02\obj\Debug\net8.0\TP_02.AssemblyInfoInputs.cache
+Z:\Programación 2024\TP_02\obj\Debug\net8.0\TP_02.AssemblyInfo.cs
+Z:\Programación 2024\TP_02\obj\Debug\net8.0\TP_02.csproj.CoreCompileInputs.cache
+Z:\Programación 2024\TP_02\obj\Debug\net8.0\TP_02.dll
+Z:\Programación 2024\TP_02\obj\Debug\net8.0\refint\TP_02.dll
+Z:\Programación 2024\TP_02\obj\Debug\net8.0\TP_02.pdb
+Z:\Programación 2024\TP_02\obj\Debug\net8.0\TP_02.genruntimeconfig.cache
+Z:\Programación 2024\TP_02\obj\Debug\net8.0\ref\TP_02.dll
